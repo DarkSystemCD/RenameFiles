@@ -1,20 +1,19 @@
 # DarkSystemCD®RenameFiles 2.0
-Quickly rename multiple files with customizable options.
+_Quickly rename multiple files with customizable options._
 
-### Features
-
-- Multi-Language
-- Color Themes
-- Step-By-Step Process
-- Help and Documentation
-- Save Preferences
-- No Installation
+📦 Features<br>
+🔸 Multi-Language<br>
+🔸 Color Themes<br>
+🔸 Step-By-Step Process<br>
+🔸 Help and Documentation<br>
+🔸 Save Preferences<br>
+🔸 No Installation
 
 thanks for choosing DarkSystemCD.
 
 <img src="https://i.imgur.com/PLPYcFS.jpg">
 
-GUID: 55682549-25CB-4D3F-B9BB-5DE691760749
+**GUID**: 55682549-25CB-4D3F-B9BB-5DE691760749
 
 ---
 
